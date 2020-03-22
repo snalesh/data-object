@@ -1,6 +1,5 @@
 {
   "name": "snalesh/data-object",
-  "version": "0.1.1",
   "description": "basic abstract data object preventing setting of dynamic props on objects",
   "type": "library",
   "license": "GPL-3.0-only",
